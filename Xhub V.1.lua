@@ -1,4 +1,4 @@
---//X HubV.1 by - nightmare#4141
+--//X HubV.1 by - 2002#4141
 
 -- Instances:
 
@@ -66,7 +66,7 @@ Crash.TextScaled = true
 Crash.TextSize = 14.000
 Crash.TextWrapped = true
 Crash.MouseButton1Down:connect(function()
-	loadstring(game:HttpGet("https://raw.githubusercontent.com/racemodex/my-scripts/master/crashserverdh", true))()
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/lerkermer/lua-projects/master/BACKUPCRASH", true))()
 end)
 
 OwlHub.Name = "OwlHub"
@@ -120,7 +120,7 @@ Dex.BackgroundColor3 = Color3.fromRGB(35, 35, 35)
 Dex.Position = UDim2.new(-2.98023224e-08, 0, 0.656603813, 0)
 Dex.Size = UDim2.new(0, 158, 0, 43)
 Dex.Font = Enum.Font.SourceSans
-Dex.Text = "Dex explorer("Might Not Work")"
+Dex.Text = "Dex explorer(Might Not Work)"
 Dex.TextColor3 = Color3.fromRGB(176, 48, 255)
 Dex.TextScaled = true
 Dex.TextSize = 14.000
